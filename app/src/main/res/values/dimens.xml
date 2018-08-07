@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginDefault">16dp</dimen>
+    <dimen name="margin_left_views">5dp</dimen>
+    <dimen name="margin_small">5dp</dimen>
+    <dimen name="default_view_height">150dp</dimen>
+    <dimen name="card_elevation_height">5dp</dimen>
+</resources>
